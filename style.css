@@ -81,8 +81,8 @@ nav ul li a:hover{
     text-shadow:2px 2px 2px rgb(20, 9, 9);
   }
   
-  .hire {
-    background-image: url("a.jpg");
+  .contact {
+    background-image: url("hire.jpg");
     background-size: cover;
     width: 100%;
     height: 100%;
